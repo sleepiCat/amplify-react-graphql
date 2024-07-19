@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+           Welcome to Tim's first deployed fullstack app on AWS cloud using Amplify!!!
         </p>
         <a
           className="App-link"
